@@ -5,3 +5,12 @@ Vivo en tacna
 con
 me gusta leer
 hhhhhh
+Funcion que extrae datos
+nuevo cambio
+nuevo cambio 1
+Ultimo cambio
+se implemento 
+La funcion envia la informacion a github
+Hice un cambio
+funcion para agregar a file
+
